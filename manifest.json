@@ -1,0 +1,21 @@
+{
+    "short_name": "Loan App",
+    "name": "Loan App",
+    "description":"Loan Management System",
+    "icons": [
+      {
+        "src": "public/img/cm.jpg",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "public/img/cm.jpg",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "index.php",
+    "background_color": "rgb(60, 179, 113)",
+    "display": "standalone",
+    "theme_color": "rgb(60, 179, 113)"
+  }
